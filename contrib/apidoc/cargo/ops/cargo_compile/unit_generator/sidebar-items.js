@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["Proposal","A proposed target."],["UnitGenerator","The context needed for generating root units, which are pacakges the user has requested to compile."]]};
